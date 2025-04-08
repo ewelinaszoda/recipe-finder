@@ -43,7 +43,7 @@ To set up and run the application, follow these steps:
    ```bash
    npm test
    ```
-   - use RTL to test the app, create only on e test as example
+   - use RTL to test the app, create only one test as example
 
 ## Tools and Libraries Used
 
@@ -72,8 +72,6 @@ Desktop view
 
 ![alt text](image-4.png)
 
-![alt text](image-4.png)
-
 ![alt text](image-6.png)
 
 ![alt text](image-9.png)
@@ -84,9 +82,7 @@ Mobile view
 ![alt text](image-3.png)
 
 ![alt text](image-5.png)
-![alt text](image-6.png)
-
-![alt text](image-5.png)
+![alt text](image-11.png)
 
 ![alt text](image-7.png)
 ![alt text](image-8.png)
